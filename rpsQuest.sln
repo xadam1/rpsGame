@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpsQuest", "rpsQuest.csproj", "{D00A3991-52FC-4100-B803-985481D2D899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00A3991-52FC-4100-B803-985481D2D899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A3991-52FC-4100-B803-985481D2D899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A3991-52FC-4100-B803-985481D2D899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A3991-52FC-4100-B803-985481D2D899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1968E999-7127-4F1D-AD79-BACDF2615C48}
+	EndGlobalSection
+EndGlobal
