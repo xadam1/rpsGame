@@ -16,4 +16,4 @@ Enemies are random monsters you encounter in fight. They will choose randomly on
 | Starting screen          |  New Game Created |
 :-------------------------:|:-------------------------:
 <img src="https://github.com/xadam1/rpsGame/blob/master/resources/help.png">  |  <img src="https://github.com/xadam1/rpsGame/blob/master/resources/newGame.png">
-Fight | <img src="https://github.com/xadam1/rpsGame/blob/master/resources/fight.png">
+**Fight** | <img src="https://github.com/xadam1/rpsGame/blob/master/resources/fight.png">
