@@ -1,5 +1,5 @@
-# rpsGame
-This is very simple Rock-Paper-Scissors text based game. It's also kind of 'RPG', you are leveling your combat strength on each 'weapon' _(rock, paper, scissors)_ and fighting enemies.
+# Rock-Paper-Scissors Game
+This is very simple RPS text based game. It's also kind of 'RPG', you are leveling your combat strength on each 'weapon' _(rock, paper, scissors)_ and fighting enemies.
 
 ### Player
 You as a player have
